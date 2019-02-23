@@ -6,7 +6,8 @@ header {
     text-align: center;
     position: fixed;
     z-index: 1;
-    margin-left: 100px;
+    margin-left: 140px;
+    margin-top: 40px;
     color: white;
 }
 
