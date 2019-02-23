@@ -2,6 +2,9 @@
 
 ## This is our third project / hw
 
+### Some extra touches are background image and faded. 
+### It's not word with friends but letter with friends.
+
 ### Before You Begin
 
 
