@@ -4,8 +4,28 @@ header {
     font-size: 200%;
     font-weight: bold;
     text-align: center;
+    position: fixed;
+    z-index: 1;
+    margin-left: 100px;
+    color: white;
 }
 
 div {
-    text-align: center;
+    z-index: 2;
+    position: fixed;
+    color: white;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+body {
+    background-color: #cccccc;
+   }
+
+section {
+    width: 100%;
+    height: 500px;
+    background-image: url("../images/maxresdefault.jpg");
+    filter: blur(8px);
+    z-index: 0;
 }
